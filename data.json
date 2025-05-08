@@ -1,0 +1,20 @@
+[
+    {
+      "title": "The Great Kenneth",
+      "author": "Kenneth Bulok",
+      "genre": "Classico",
+      "status": "Available"
+    },
+    {
+      "title": "Robert Baliw",
+      "author": "Jereyl Sungaw",
+      "genre": "Historical",
+      "status": "Checked Out"
+    },
+    {
+      "title": "Jc The Great JB Instructor",
+      "author": "Nathan Santos",
+      "genre": "Fantasy",
+      "status": "Available"
+    }
+  ]
